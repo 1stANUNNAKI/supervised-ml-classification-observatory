@@ -1,0 +1,33 @@
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Node / pnpm artifacts
+node_modules/
+.pnpm-store/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local raw browser snapshots
+q2.html
+q3.html
+q2_files/
+q3_files/
+About this assignment.png
+Assignment Restrictions.png
+Grading Criteria.png
+Instructions.png
+
+
+
+
+q4.png
+q5.png

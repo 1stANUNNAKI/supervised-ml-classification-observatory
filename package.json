@@ -1,0 +1,27 @@
+{
+  "name": "supervised-ml-classification-observatory",
+  "version": "1.0.0",
+  "description": "Swiss Actuarial & Quantitative Editorial Observatory for Supervised Machine Learning Classification (Enterprise Churn Benchmark, 3D Decision Manifold, CDO Vector PDF Dossier & Mark Exam Companion)",
+  "main": "index.html",
+  "scripts": {
+    "simulate": "python src/simulate_classification.py",
+    "build:pdf": "python src/generate_cdo_report_pdf.py",
+    "serve": "python -m http.server 8080",
+    "verify:js": "node --check assets/js/manifold-3d.js && node --check assets/js/simulator-engine.js && node --check assets/js/mark-companion.js"
+  },
+  "keywords": [
+    "machine-learning",
+    "supervised-classification",
+    "gradient-boosting",
+    "random-forest",
+    "logistic-regression",
+    "svm",
+    "knn",
+    "customer-churn",
+    "decision-manifold",
+    "scikit-learn"
+  ],
+  "author": "Quantitative Analytics & ML Engineering",
+  "license": "MIT"
+}
+
