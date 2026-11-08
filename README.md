@@ -157,7 +157,17 @@ python src/generate_cdo_report_pdf.py
 
 ## 🎓 Official Coursera Certificate & Credential Verification | الشهادة المعتمدة من كورسيرا
 
-[![Coursera Verified Certificate](https://img.shields.io/badge/Coursera_Verified_Certificate-UL7MLY014L1Y-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/UL7MLY014L1Y)
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/UL7MLY014L1Y" target="_blank">
+    <img src="assets/coursera_certificate_UL7MLY014L1Y.jpeg" alt="Official Coursera Certificate - Supervised Machine Learning: Classification (UL7MLY014L1Y)" width="860" style="border: 2px solid #0f172a; border-radius: 6px; box-shadow: 0 12px 32px rgba(0,0,0,0.18);" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/UL7MLY014L1Y">
+    <img src="https://img.shields.io/badge/Coursera_Verified_Certificate-UL7MLY014L1Y-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Verified Certificate" />
+  </a>
+</p>
 
 | Field / الحقل | Details / التفاصيل |
 | :--- | :--- |
@@ -165,7 +175,7 @@ python src/generate_cdo_report_pdf.py
 | **Certificate ID / رقم الشهادة** | `UL7MLY014L1Y` |
 | **Official Verification URL / رابط التحقق الرسمي** | [https://www.coursera.org/account/accomplishments/certificate/UL7MLY014L1Y](https://www.coursera.org/account/accomplishments/certificate/UL7MLY014L1Y) |
 
-> **التحقق من الشهادة (Arabic):** تم إنجاز هذا المشروع كمتطلب التخرج النهائي لدورة **التعلم الآلي الخاضع للإشراف: التصنيف (Supervised Machine Learning: Classification)** على منصة **Coursera**، ويمكن التحقق من الشهادة الرسمية مباشرة عبر الرابط المعتمد أعلاه:  
+> **التحقق من الشهادة (Arabic):** تم إنجاز هذا المشروع كمتطلب التخرج النهائي لدورة **التعلم الآلي الخاضع للإشراف: التصنيف (Supervised Machine Learning: Classification)** على منصة **Coursera**، ويمكن التحقق من الشهادة الرسمية مباشرة عبر النقر على صورة الشهادة أو الرابط المعتمد أعلاه:  
 > 🔗 **[عرض الشهادة الرسمية الموثقة على Coursera (`UL7MLY014L1Y`)](https://www.coursera.org/account/accomplishments/certificate/UL7MLY014L1Y)**
 
 ---
