@@ -398,6 +398,18 @@
     tp_type_lbl: {
       en: 'TYPE HERE TO PRACTICE TRANSCRIPTION',
       ar: 'اكتب هنا للتدرب على النسخ المباشر'
+    },
+    sec07_coord: {
+      en: 'SEC-07 // OFFICIAL COURSERA CREDENTIAL VERIFICATION (ID: UL7MLY014L1Y)',
+      ar: 'القسم 07 // الشهادة الرسمية المعتمدة من منصة كورسيرا (رقم الشهادة: UL7MLY014L1Y)'
+    },
+    sec07_title: {
+      en: 'Official Coursera Accomplishment Certificate — Supervised Machine Learning: Classification',
+      ar: 'شهادة الإنجاز الرسمية من Coursera — التعلم الآلي الخاضع للإشراف: التصنيف'
+    },
+    btn_verify_cert: {
+      en: '🎓 VERIFY CERTIFICATE ON COURSERA (UL7MLY014L1Y)',
+      ar: '🎓 التحقق المباشر من الشهادة على Coursera (UL7MLY014L1Y)'
     }
   };
 

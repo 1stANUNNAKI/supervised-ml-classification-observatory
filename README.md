@@ -1,11 +1,40 @@
 # 🏛️ Supervised Machine Learning Classification Observatory
 ### Enterprise Customer Churn Prediction, 3D Decision Manifold & Executive CDO Dossier
 
+<p align="center">
+  <a href="https://1stanunnaki.github.io/supervised-ml-classification-observatory/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_LIVE_INTERACTIVE_OBSERVATORY-OPEN_WEB_APP_(TRY_3D_MANIFOLD_&_SIMULATOR)-0047AB?style=for-the-badge" alt="Launch Live Interactive Observatory" />
+  </a>
+  <a href="Final_Report_Supervised_ML_Classification.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_EXECUTIVE_CDO_PDF_REPORT-DOWNLOAD_(3_PAGES)-C8321E?style=for-the-badge" alt="Download Executive CDO PDF Report" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/UL7MLY014L1Y" target="_blank">
+    <img src="https://img.shields.io/badge/🎓_COURSERA_CERTIFICATE-UL7MLY014L1Y-0D7A5F?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Verified Certificate" />
+  </a>
+</p>
+
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-0047AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.9-0D7A5F?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![ReportLab Vector PDF](https://img.shields.io/badge/ReportLab-Vector%20PDF%20Dossier-C8321E?style=flat-square)](outputs/Final_Report_Supervised_ML_Classification.pdf)
+[![ReportLab Vector PDF](https://img.shields.io/badge/ReportLab-Vector%20PDF%20Dossier-C8321E?style=flat-square)](Final_Report_Supervised_ML_Classification.pdf)
 [![Mark Rubric Verified](https://img.shields.io/badge/Mark%20Rubric-15%20%2F%2015%20Points%20Verified-10B981?style=flat-square)](#5-mark-ai-grading-rubric-mapping-15--15-points)
 [![License: MIT](https://img.shields.io/badge/License-MIT-111622?style=flat-square)](LICENSE)
+
+---
+
+## 🚀 Live Interactive Web Observatory | رابط الدخول المباشر وتجربة المشروع الحية
+
+> ### 🌐 **[Click Here to Launch the Live Interactive Observatory (`1stanunnaki.github.io`)](https://1stanunnaki.github.io/supervised-ml-classification-observatory/)**
+> 🔗 **Direct URL / الرابط المباشر للتجربة:**  
+> **`https://1stanunnaki.github.io/supervised-ml-classification-observatory/`**
+>
+> **ماذا يمكنك تجربته داخل الرابط المباشر؟ (Interactive Features Inside):**
+> - 🌐 **المجسم ثلاثي الأبعاد (`[3D MANIFOLD]`):** تدوير حر بزاوية $360^\circ$، وضع ملء الشاشة (`⛶ FULLSCREEN`)، وعند الضغط على أي نقطة داخل المجسم تظهر علامة التعجب **`!`** التي تفتح بطاقة التفاصيل الكاملة لتلك النقطة عبر النماذج الخمسة.
+> - 🇸🇦 ↔ 🇬🇧 **مفتاح تحويل اللغة والاتجاه الفوري:** اضغط على زر الإيموجي (`🇸🇦` / `🇬🇧`) أعلى يمين الموقع لتحويل كافة النصوص، الجداول، الرسوم البيانية، والمجسم ثلاثي الأبعاد بين الإنجليزية والعربية (`RTL` / `LTR`).
+> - ⚖️ **محاكي العتبات الاحتمالية والعائد المالي ($\tau$ & ROI Scrubber):** حرّك شريط العتبة $\tau$ لمشاهدة التغير الفوري في مصفوفة الارتباك (`TP, FP, TN, FN`) ومنحنيات `ROC` و `PR` وصافي العائد المالي.
+> - ⚡ **محاكي التنبؤ الحي (`What-If Simulator & SHAP Waterfall`):** عدّل خصائص أي عميل مؤسسي وشاهد احتمالية التسرب الفورية وشلال مساهمة المتغيرات.
+> - ✅ **الحلول الحرفية للأسئلة (`Q1 – Q5`) وتحميل تقرير الـ PDF التنفيذي:** استعرض جميع الأسئلة وإجاباتها المعتمدة وحمّل ملف `Final_Report_Supervised_ML_Classification.pdf` بضغطة واحدة.
+
+---
 
 > **A Swiss Actuarial & Quantitative Editorial Observatory (`VAULT-2026-001`)** engineered to simulate, benchmark, and visualize **Supervised Machine Learning Classification** across an enterprise subscription cohort (`N = 2,500`, `12 features`, `26.4% churn rate`). Prepared for the **Chief Data Officer (CDO)** and **Head of Analytics**, complete with a ready-to-upload **3-Page Vector PDF Executive Report** and an interactive web workbench.
 
